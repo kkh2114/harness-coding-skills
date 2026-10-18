@@ -1,5 +1,7 @@
 # harness-coding-skills
 
+> **📦 최신 버전은 [kkh2114/claude-skills-public](https://github.com/kkh2114/claude-skills-public)으로 옮겨졌습니다.** 이 저장소의 스킬과 다른 공개 스킬이 한곳에 모여 있고, 앞으로는 그곳만 업데이트됩니다. (The latest versions now live in [claude-skills-public](https://github.com/kkh2114/claude-skills-public).)
+
 Claude Code 스킬 3종 — 코딩 에이전트용 하네스(작업 환경)를 설계·검증하고, 그 안에서 에이전트가 안정적으로 코드를 쓰게 하는 세트.
 
 | 스킬 | 역할 | 호출 시점 |
